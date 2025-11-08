@@ -1,0 +1,4 @@
+# Node modules, env e arquivos sensíveis
+node_modules/
+.env
+*.log
